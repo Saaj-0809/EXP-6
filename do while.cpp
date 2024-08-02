@@ -20,3 +20,18 @@ int main()
 
     return 0;    
 }
+
+/* OUTPUT
+enter the number of digits you want to print: 8
+1
+2
+3
+4
+5
+6
+7
+8
+
+--------------------------------
+Process exited after 1.301 seconds with return value 0
+Press any key to continue . . . */
