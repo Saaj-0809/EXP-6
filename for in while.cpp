@@ -31,3 +31,16 @@ int main()
 
     return 0;
 }
+
+/* OUTPUT 
+number of rows: 4
+number of columns: 8
+character: 5
+5 5 5 5 5 5 5 5
+5 5 5 5 5 5 5 5
+5 5 5 5 5 5 5 5
+5 5 5 5 5 5 5 5
+
+--------------------------------
+Process exited after 4.219 seconds with return value 0
+Press any key to continue . . . */
