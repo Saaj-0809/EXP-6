@@ -28,3 +28,18 @@ int main()
     cout<<endl;
     return 0;
 }
+
+/* OUTPUT 
+enter the number of rows: 7
+            %
+          % % %
+        % % % % %
+      % % % % % % %
+    % % % % % % % % %
+  % % % % % % % % % % %
+% % % % % % % % % % % % %
+
+
+--------------------------------
+Process exited after 1.504 seconds with return value 0
+Press any key to continue . . . */
