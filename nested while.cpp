@@ -25,3 +25,17 @@ int main()
 
     return 0;
 }
+ /* OUTPUT
+Enter the number of rows for the triangle: 8
+*
+**
+***
+****
+*****
+******
+*******
+********
+
+--------------------------------
+Process exited after 1.734 seconds with return value 0
+Press any key to continue . . . */
